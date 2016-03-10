@@ -13,15 +13,15 @@
 
 <div class="navigation">
 	<a href="test.html"><div class="button"> <p> Hem </p> </div></a>
-	<a href="flik2.html"><div class="button"> <p> Flik 2</p> </div></a>
-	<a href="flik3.html"><div class="button"><p> Flik 3</p></div></a>
-	<a href="flik4.html"><div class="button"><p> Flik 4</p></div></a>
+	<a href="PS4.html"><div class="button"> <p> Playstation 4</p> </div></a>
+	<a href="Wii U.html"><div class="button"><p> Xbox One</p></div></a>
+	<a href="Xbox One.html"><div class="button"><p> Wii U</p></div></a>
 </div> <!-- Slut på Naviagtion-->
 
 <div class="main">
 
 
-<center><h1>Rea</h1></center>
+
 
 </div>
 
@@ -33,6 +33,7 @@
 
 </div>
 
+<img src="/img>
 </div>
 </body>
 
